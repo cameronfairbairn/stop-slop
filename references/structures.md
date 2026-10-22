@@ -126,6 +126,64 @@ Wh- openers become a crutch. "What makes this hard is..." becomes "The constrain
 | Staccato fragmentation | Don't stack short punchy sentences |
 | "Not always. Not perfectly." | Hedging disguised as reassurance |
 
+## Appended Implications
+
+State a fact, then tack on a clause spelling out what it means. The reader could
+draw the inference. Doing it for them is hand-holding, and doing it every paragraph
+makes the prose metronomic: fact, so-what, fact, so-what.
+
+| Pattern | Problem |
+|---------|---------|
+| "X, which means Y" | Does the reader's inference for them |
+| "X, so Y" | Same tic, compressed |
+| "X. That means Y." | Same tic, promoted to its own sentence |
+| "X, and that's why Y" | Retrofits significance onto a plain fact |
+| "What this means is Y" | Throat-clearing before the point |
+| "The result is Y" / "The upshot is Y" | Announces a conclusion instead of stating it |
+| "X, and this matters because Y" | Instructs the reader to care |
+| "X. In other words, Y." | Says one thing twice |
+
+**Instead:** state the fact and stop. Where the implication is genuinely non-obvious
+and load-bearing, give it its own sentence with no connective.
+
+## Outcome Joins
+
+Two independent clauses fused by ", and" or ", so", where the second states the
+outcome of the first. Unlike an appended implication, the second clause carries new
+information, which is why the rule above misses it. The tell is the join itself: a
+frontier model welds cause to consequence in one breath, sentence after sentence,
+and the prose acquires a two-beat gait. Removing dashes and semicolons makes it
+worse, because every removed mark becomes a comma-join candidate.
+
+| Pattern | Example |
+|---------|---------|
+| "assertion, and outcome" | "The copies drift apart, and each needs its own maintenance" |
+| "assertion, so outcome" | "The tenant has CA enabled, so it holds at least P1" |
+| "assertion, and obligation" | "It becomes a privileged system, and you must secure it" |
+| Heading form | "X is licensed, and the seat count is the open risk" |
+
+**Instead**, pick one per instance and vary:
+- Fold the outcome into a single clause: "Each drifting copy needs its own maintenance."
+- Move the cause to the front: "Because the tenant has CA enabled, it holds at least P1."
+- Cut the join into two sentences, with a connective at most one time in five.
+- In a heading, keep the stronger half and move the other into the first paragraph.
+
+Noun lists ("A, B, and C") and single-subject compound verbs ("it reviews guests
+and deletes them") are not this pattern. Leave them alone.
+
+Before: The mount is stale, which means Plex cannot see any media.
+After:  The mount is stale. Plex sees an empty library.
+
+Before: These are thin volumes, so the nominal 100 GB is not real consumption.
+After:  These are thin volumes. The nominal 100 GB is not what they occupy.
+
+Often the stronger fix is deleting one half. If "Plex sees an empty library" is what
+the reader needs, the mount detail is support, not a premise to announce first.
+
+**Density check:** count sentences carrying a causal connective (so, because, which
+means, that means, which is why, hence, thus, therefore). More than one in five is
+the tell. Cut until the remaining ones carry weight.
+
 ## Word Patterns
 
 | Pattern | Problem |

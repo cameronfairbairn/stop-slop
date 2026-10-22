@@ -28,6 +28,10 @@ Eliminate predictable AI writing patterns from prose.
 
 8. **Cut quotables.** If it sounds like a pull-quote, rewrite it.
 
+9. **Don't append implications.** State the fact. Do not follow it with a clause explaining what it means ("which means", "so", "that means", "which is why"). See [references/structures.md](references/structures.md).
+
+10. **Don't weld outcomes on with a comma.** Two clauses joined by ", and" or ", so" where the second states the first's consequence: fold into one clause, lead with the cause, or split. See [references/structures.md](references/structures.md).
+
 ## Quick Checks
 
 Before delivering prose:
@@ -44,6 +48,9 @@ Before delivering prose:
 - Vague declarative ("The implications are significant")? Name the specific implication.
 - Narrator-from-a-distance ("Nobody designed this")? Put the reader in the scene.
 - Meta-joiners ("The rest of this essay...")? Delete. Let the essay move.
+- Clause tacked on to explain the previous one ("which means", "so", "that means")? Cut it or split it.
+- Clause pair welded by ", and"/", so" where the second is the first's outcome? Fold, invert, or split.
+- More than one sentence in five carries a causal connective? Too many. Thin them out.
 
 ## Scoring
 
